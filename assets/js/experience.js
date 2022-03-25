@@ -6,32 +6,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "IT Strategic/Business Partner",
-    cardImage: "assets/images/experience-page/BNI.jpg",
-    place: "PT Bank Negara Indonesia(Persero) Tbk",
-    time: "(December 2021 - Present)",
-    desp: "<li>Part of Information Technology Strategy And Architecture (STI) Division From BNI TECHSHIP Program.</li> <li>Create Business Design Document.</li><li>Support IT Business Analyst And Project Manager.</li>",
+    title: "Administrasi",
+    cardImage: "assets/images/experience-page/dinsos.png",
+    place: "Dinas Sosial Kota Tegal",
+    time: "(Oktober 2020 - Present)",
+    desp: "<li>manage files, create reports, archive settings.</li> <li>inputting DTKS data for the city of Tegal.</li><li>Providing services to all those who need social services.</li>",
   },
   {
-    title: "Back End Developer",
-    cardImage: "assets/images/experience-page/BNI.jpg",
-    place: "PT Bank Negara Indonesia(Persero) Tbk",
-    time: "(June, 2021 - December 2021)",
-    desp: "<li>Part of Information Technology Strategy And Architecture (STI) Division From BNI TECHSHIP Program.</li> <li>Using Tools ASP.NET Entity Framework Core 5.0 as Web API Develop.</li>",
+    title: "UI Designer",
+    cardImage: "assets/images/experience-page/skilvul.png",
+    place: "PT Impactbyte Teknologi Edukasi",
+    time: "(September 2021 - Oktober 2021)",
+    desp: "<li>Has the task of determining the appearance of the application or website</li> <li>design an attractive appearance both in terms of shape, color, and writing.</li> <li>And also set the layout, color scheme, shape of the buttons that can be clicked along with the type and size of the text.</li>",
   },
   {
-    title: "Information Technology Support",
-    cardImage: "assets/images/experience-page/POLTEK.jpg",
-    place: "Harapan Bersama Polytechnic",
-    time: "(November,2018 - November, 2020)",
-    desp: "<li>Troubleshooting Hardware/Software, Network Administration, Web/Desktop Programming.</li><li>Management Control, Student And Lecturer Services.</li>",
-  },
-  {
-    title: "Information Technology Director",
-    cardImage: "assets/images/experience-page/Healme.png",
-    place: "Healme.id",
-    time: "(September, 2021 - October)",
-    desp:"<li>Create a Web and It's Support For Mental Health Campaigns.</li><li>Recruiter Volunteer.</li>",
+    title: "UX Designer",
+    cardImage: "assets/images/experience-page/skilvul.png",
+    place: "PT Impactbyte Teknologi Edukasi",
+    time: "(Oktober 2021 - Desember 2021)",
+    desp: "<li>determine how easily an application and/or site can operate.</li><li>tasked with creating applications or sites that are easy to use by users, and look cool, nice, but simple.</li>",
   },
 ];
 
@@ -71,22 +64,22 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Polytechnic Karate Club",
-    cardImage: "assets/images/experience-page/INKAI.png",
+    title: "Paskibra",
+    cardImage: "assets/images/experience-page/paskibra.png",
+    description:
+      "2012-2013</br><p><b>Member</b></p>.",
+  },
+  {
+    title: "Rohis",
+    cardImage: "assets/images/experience-page/rohis.jpg",
+    description:
+      "2015-2018</br><p><b>Member Hadroh</b></p>.",
+  },
+  {
+    title: "Hima Prodi",
+    cardImage: "assets/images/experience-page/hima.png",
     description:
       "2018-2019</br><p><b>Member</b></p>.",
-  },
-  {
-    title: "Scout Movement",
-    cardImage: "assets/images/experience-page/PRAMUKA.png",
-    description:
-      "2014-2017</br><p><b>Rover Scout</b></p>.",
-  },
-  {
-    title: "MPK SMA Negeri 1 Slawi",
-    cardImage: "assets/images/experience-page/MPK.png",
-    description:
-      "2015-2016</br><p><b>Administrator</b></p>.",
   },
 ];
 
@@ -116,29 +109,23 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "Best Graduated In Associate's Computer Engineering Degree",
+    title: "Magang Kampus Merdeka PT Impactbyte Teknologi Edukasi",
     subtitle: "2021 | Harapan Bersama Polytechnic",
-    image: "assets/images/experience-page/Wisuda.jpg",
-    desp: "Maxima Cumlaude Predicate GPA 4.00.",
+    image: "assets/images/experience-page/magang.jpg",
+    desp: "GPA 3,37/4,00.",
   },
   {
-    title: "Best Student Award for 5th Semester of Computer Engineering Study Program",
-    subtitle: "2021 | Harapan Bersama Polytechnic",
-    image: "assets/images/experience-page/Semester5.jpg",
-    desp: "GPA 4,00/4,00.",
+    title: "",
+    subtitle: "",
+    image: "",
+    desp: "",
   },
   {
-    title: "3rd Place Most Outstanding Student Award",
-    subtitle: "2020 | Harapan Bersama Polytechnic",
-    image: "assets/images/experience-page/Mapres.jpg",
-    desp: "3rd Place From 10 Participant All Study Program.",
+    title: "",
+    subtitle: "",
+    image: "",
+    desp: "",
   },
-  {
-    title: "Best Student Award for 4th Semester of Computer Engineering Study Program",
-    subtitle: "2020 | Harapan Bersama Polytechnic",
-    image: "assets/images/experience-page/Semester4.jpg",
-    desp: "GPA 4,00/4,00.",
-  }
 ];
 
 const showCards3 = () => {

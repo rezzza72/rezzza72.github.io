@@ -14,19 +14,19 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Sistem Database Dan Web Untuk Robot UVC Dan Pengantar Makan Pasien COVID-19",
-    cardImage: "assets/images/project-page/tugasakhir.png",
+    title: "Prototype Redesian UI Website CROWDE",
+    cardImage: "assets/images/project-page/crowde.png",
+    description: "",
+    tagimg: "",
+    Previewlink: "https://www.figma.com/proto/ItZZS0R7VHpDjjmnV15Kvo/%5BKELOMPOK-8%5D---SVI---UIX-12?node-id=343%3A8980&starting-point-node-id=343%3A8980",
+    Githublink: "",
+  },
+  {
+    title: "Sistem Pendeteksi Masker Sebagai Hak Akses Pintu Masuk Gedung B Politeknik Harapan Bersama Berbasis Raspberry PI",
+    cardImage: "assets/images/project-page/masker.png",
     description: "",
     tagimg: "",
     Previewlink: "",
-    Githublink: "https://github.com/aldoalfiyanv/WebMonitor-RobotUVC",
-  },
-  {
-    title: "Healme.id Company Profile",
-    cardImage: "assets/images/project-page/healmecompro.png",
-    description: "",
-    tagimg: "",
-    Previewlink: "https://www.healme.id/",
     Githublink: "",
   }
 ];

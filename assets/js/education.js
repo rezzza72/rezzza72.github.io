@@ -25,8 +25,8 @@ const moocscards = [
     moocLink: "",
   },
   {
-    title: "Microsoft Office Application",
-    cardImage: "assets/images/education-page/BNSP.png",
+    title: "UI/UX Challange",
+    cardImage: "assets/images/education-page/skilvul.jpg",
     moocLink: "",
   }
 ];
