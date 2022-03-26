@@ -10,21 +10,21 @@ const exp = [
     cardImage: "assets/images/experience-page/dinsos.png",
     place: "Dinas Sosial Kota Tegal",
     time: "(Oktober 2020 - Present)",
-    desp: "<li>manage files, create reports, archive settings.</li> <li>inputting DTKS data for the city of Tegal.</li><li>Providing services to all those who need social services.</li>",
+    desp: "<li>Manage files, create reports, archive settings.</li> <li>Inputting DTKS data for the city of Tegal.</li><li>Providing services to all those who need social services.</li>",
   },
   {
     title: "UI Designer",
     cardImage: "assets/images/experience-page/skilvul.png",
     place: "PT Impactbyte Teknologi Edukasi",
     time: "(September 2021 - Oktober 2021)",
-    desp: "<li>Has the task of determining the appearance of the application or website</li> <li>design an attractive appearance both in terms of shape, color, and writing.</li> <li>And also set the layout, color scheme, shape of the buttons that can be clicked along with the type and size of the text.</li>",
+    desp: "<li>Has the task of determining the appearance of the application or website</li> <li>Design an attractive appearance both in terms of shape, color, and writing.</li> <li>And also set the layout, color scheme, shape of the buttons that can be clicked along with the type and size of the text.</li>",
   },
   {
     title: "UX Designer",
     cardImage: "assets/images/experience-page/skilvul.png",
     place: "PT Impactbyte Teknologi Edukasi",
     time: "(Oktober 2021 - Desember 2021)",
-    desp: "<li>determine how easily an application and/or site can operate.</li><li>tasked with creating applications or sites that are easy to use by users, and look cool, nice, but simple.</li>",
+    desp: "<li>Determine how easily an application and/or site can operate.</li><li>Tasked with creating applications or sites that are easy to use by users, and look cool, nice, but simple.</li>",
   },
 ];
 
