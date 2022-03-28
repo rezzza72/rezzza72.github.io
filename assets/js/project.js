@@ -18,7 +18,7 @@ const projects = [
     cardImage: "assets/images/project-page/crowde.png",
     description: "",
     tagimg: "",
-    Previewlink: "https://www.figma.com/proto/ItZZS0R7VHpDjjmnV15Kvo/%5BKELOMPOK-8%5D---SVI---UIX-12?node-id=343%3A8980&starting-point-node-id=343%3A8980",
+    Previewlink: "https://www.figma.com/proto/YIwl25PbK6f2SjUxhUhPoK/Reza-Setiawan?node-id=307%3A12621&scaling=scale-down&page-id=38%3A2&starting-point-node-id=307%3A12621",
     Githublink: "",
   },
   {

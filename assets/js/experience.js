@@ -77,7 +77,7 @@ const volunteershipcards = [
   },
   {
     title: "Hima Prodi",
-    cardImage: "assets/images/experience-page/hima.png",
+    cardImage: "assets/images/experience-page/HIMA.jpg",
     description:
       "2018-2019</br><p><b>Member</b></p>.",
   },
