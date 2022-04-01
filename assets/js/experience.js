@@ -73,7 +73,7 @@ const volunteershipcards = [
     title: "Rohis",
     cardImage: "assets/images/experience-page/rohis.jpg",
     description:
-      "2015-2018</br><p><b>Member Hadroh</b></p>.",
+      "2015-2017</br><p><b>Member</b></p>.",
   },
   {
     title: "Hima Prodi",
